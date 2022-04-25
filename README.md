@@ -1,56 +1,34 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Admission project of microverse; code duplicate.
 
-> Description the project.
+> This is a direct copy of my code from one of my admission projects, to show I can make a repo and commit changes successfully. 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- GITHUB
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
+Knowledge of creating new repos and branches in github and html/css.
 
-### Install
 
 ### Usage
 
-### Run tests
-
-### Deployment
+To show I can commit changes in a github repo and do a pull request. 
 
 
 
-## Authors
+👤 **Author**
 
-👤 **Author1**
+- GitHub: [@CrystallineButterfly](https://github.com/CrystallineButterfly)
+- Twitter: [@CrysytAlline_k42](https://twitter.com/CrystAlline_k42)
+- LinkedIn: [Kell Mcwatt](https://linkedin.com/in/Kell_Mcwatt)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
