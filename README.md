@@ -42,6 +42,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+@Ernest_lasten
+@yohanees dagnachew
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
